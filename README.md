@@ -87,4 +87,3 @@ This means that you can use, copy, and modify the code as long as you give credi
 
 Please note that this license applies to the code in this repository only, and does not apply to the OpenAI API, which is subject to its own license agreement.
 
-[Liscence](LISCENCE)
